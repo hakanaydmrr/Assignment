@@ -17,6 +17,6 @@ F(A,B,C) = $\overline{ABC}$ + $\overline{AB}$ C + A $\overline{BC}$ + AB $\overl
 
 ### Screenshots
 
-![](hakan1.gif)
-![](hakan2.gif)
+![](Hakan1.gif)
+![](Hakan2.gif)
 
