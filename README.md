@@ -19,4 +19,5 @@ F(A,B,C) = $\overline{ABC}$ + $\overline{AB}$ C + A $\overline{BC}$ + AB $\overl
 
 ![](Hakan1.gif)
 ![](Hakan2.gif)
+![](hakan.png)
 
